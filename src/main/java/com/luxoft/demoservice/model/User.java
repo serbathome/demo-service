@@ -1,6 +1,7 @@
 package com.luxoft.demoservice.model;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
+
 
 @Entity
 @Table(name = "users")
